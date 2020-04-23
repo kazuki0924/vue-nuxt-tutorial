@@ -1,3 +1,5 @@
+[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/kazuki0924/vue-nuxt-tutorial) 
+
 # vue-nuxt-tutorial
 
 > My cat&#39;s meow Nuxt.js project
