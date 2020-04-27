@@ -18,6 +18,7 @@
   display: flex;
   justify-content: center;
   align-items: center;
+  background-color: #ccc;
 }
 
 .nav-items {
@@ -27,6 +28,6 @@
   display: flex;
   justify-content: space-around;
   align-items: center;
-  width: 80;
+  width: 80%;
 }
 </style>
